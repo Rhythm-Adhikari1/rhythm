@@ -5,3 +5,4 @@ def main():
     y=float(input(""))
     
 main()
+# rhythm adhikari
